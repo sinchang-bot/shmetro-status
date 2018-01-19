@@ -1,0 +1,6 @@
+{
+  "description": "上海地铁运行情况实时通知",
+  "hooks": {
+    "build": "pip3 install -r requirements.txt -t ."
+  }
+}
