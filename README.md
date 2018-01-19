@@ -9,3 +9,8 @@
 - AWS CloudWatch
 - AWS Lambda
 - [apex](http://apex.run/)
+
+## 开发环境
+
+- macOS 10.13.1
+- Python3.6
